@@ -70,5 +70,20 @@
     },
     "vueVersion" : "2",
     "locale" : "auto",
-    "fallbackLocale" : "zh-Hans"
+    "fallbackLocale" : "zh-Hans",
+    "h5" : {
+        "title" : "uniapp-demo",
+        "router" : {
+            "base" : "/uniapp/",
+            "mode" : "hash"
+        },
+        "devServer" : {
+            "port" : 8900
+        },
+        "optimization" : {
+            "treeShaking" : {
+                "enable" : true
+            }
+        }
+    }
 }
