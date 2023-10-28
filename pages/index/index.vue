@@ -25,10 +25,14 @@
 		},
 		methods: {
 			goItem() {
-				console.log('跳转详情')
+				uni.showToast({
+					title: '跳转详情'
+				});
 			},
 			goMore() {
-				console.log('跳转更多')
+				uni.showToast({
+					title: '跳转更多'
+				});
 			}
 		}
 	}

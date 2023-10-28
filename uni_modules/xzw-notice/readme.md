@@ -6,7 +6,7 @@
 简单实用，代码就100行，支持扩展，小巧美观，滚动速度有快中慢三档，如果不满意可以自行调整
 
 ### 预览地址
-http://kangleyunju.gitee.io/uniapp
+[http://kangleyunju.gitee.io/uniapp](http://kangleyunju.gitee.io/uniapp)
 
 ### 使用方法
 

@@ -1,7 +1,7 @@
 {
 	"id": "xzw-notice",
 	"displayName": "垂直滚动通告栏水平滚动公告栏",
-	"version": "1.1.0",
+	"version": "1.2.0",
 	"author": "kangle",
 	"description": "xzw-notice，垂直滚动通告栏水平滚动公告栏",
 	"keywords": [
@@ -9,7 +9,7 @@
     ],
 	"repository": "https://github.com/kangleyunju/uniapp",
 	"engines": {
-		"HBuilderX": "^3.4.18"
+		"HBuilderX": "^3.5.1"
 	},
 	"dcloudext": {
 		"type": "component-vue",
