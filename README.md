@@ -19,5 +19,8 @@ vue2，uniapp
 1. http://kangleyunju.gitee.io/uniapp
 2. https://static-mp-2503170c-6f74-4217-ac1a-43133fb6d1b4.next.bspapp.com/uniapp
 
+### 插件市场
+https://ext.dcloud.net.cn/plugin?id=7408
+
 ### 小程序
 ![微信小程序](./static/xcx.png)
